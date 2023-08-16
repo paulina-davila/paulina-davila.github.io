@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Caveat&family=Cinzel:wght@400;600&family=Dosis:wght@200&family=Edu+SA+Beginner&family=Pacifico&family=Patrick+Hand&family=Roboto:wght@100&family=Ysabeau+Infant:ital,wght@0,200;1,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Caveat&family=Cinzel:wght@400;600&family=Crimson+Text&family=Dosis:wght@200&family=Edu+SA+Beginner&family=Pacifico&family=Patrick+Hand&family=Roboto:wght@100&family=Ysabeau+Infant:ital,wght@0,200;1,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Caveat&family=Cinzel:wght@400;600&family=Crimson+Text&family=Dosis:wght@200&family=Edu+SA+Beginner&family=Khand:wght@300&family=Pacifico&family=Patrick+Hand&family=Roboto:wght@100&family=Ysabeau+Infant:ital,wght@0,200;1,100;1,300&display=swap');
+
+body {background-color: lightslategray;}
+header{
+    display: flex;  
+    flex-direction: row;
+   justify-content: space-between;
+   background-color: rgba(78, 179, 204, 0.877); width: 100%;}
+  
+  header ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;}
+header ul li { margin:10px;
+font-size: 35px;}
+h3 {font-family:"Pacifico", sans-serif;
+  font-size:60px ;
+  color: rgb(255, 255, 255);}
+
+  h2{ font-family: "Texto carmesí", sans-serif;
+    color: rgb(37, 21, 100);}
+    footer {background-color: rgb(48, 118, 165);
+        color: black;}
+         .contenedor{ display: flex;
+          flex-direction: inherit;
+          width: 100%;
+          background-color: rgb(154, 189, 214);
+         align-content: stretch;}
+.sip{
+width: 200px; height: 200px;
+border-radius: 20%;
+}
